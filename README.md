@@ -28,7 +28,7 @@ an airline application or obtaining his travel information in some other form.
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Demo Video](https://github.com/SrikarNamburu/siaAssist/blob/master/Miscellaneous/Video%20thumbnail.png)](https://github.com/SrikarNamburu/siaAssist/blob/master/Demo%20Video/SIA%20Assist%20Demo.mp4)
+[![Demo Video](https://github.com/SrikarNamburu/siaAssist/blob/master/Miscellaneous/Video%20thumbnail.png)](https://drive.google.com/open?id=1NxGUT9XEwIRaKspKbFDFehh8Y2ogrP7H)
 
 ---
 ## SECTION 5 : USER GUIDE
