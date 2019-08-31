@@ -1,10 +1,18 @@
-# Display Data from Airtable
+## SECTION 1 : PROJECT TITLE
+## Sia Assist - Personal Airport Assistant
 
-This project provides an example for fetching data from Airtable
-using [airtable.js](https://github.com/Airtable/airtable.js)
+---
+## SECTION 2 : EXECUTIVE SUMMARY
 
-To make your own:
+In this project, we designed an intelligent chatbot called ‘SIA Assist’, that
+can be primarily used to obtain information on all aspects of Singapore’s Changi Airport.
 
-1. Log into for Airtable and copy the ["Product Catalog & Orders" template](https://airtable.com/templates/featured/expZvMLT9L6c4yeBX/product-catalog-and-orders).
-2. Go to [airtable.com/account](https://airtable.com/account) to generate an API key
-3. Put your Airtable API key and base ID in .env to get started! You can find the base ID on [airtable.com/api](https://airtable.com/api)
+Our proposed chatbot shows true effectiveness when the system has access to user’s travel
+information so that his responses can be personalised - either by integrating the chatbot with
+an airline application or obtaining his travel information in some other form.
+
+
+---
+## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
+
+<video src="Demo Video/SIA Assist Demo.mp4" width="320" height="200" controls preload></video>
