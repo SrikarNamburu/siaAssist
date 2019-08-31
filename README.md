@@ -15,4 +15,4 @@ an airline application or obtaining his travel information in some other form.
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-<video src="Demo Video/SIA Assist Demo.mp4" width="320" height="200" controls preload></video>
+< video src="Demo Video/SIA Assist Demo.mp4" width="320" height="200" controls preload />
