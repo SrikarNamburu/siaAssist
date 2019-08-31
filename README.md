@@ -28,12 +28,12 @@ an airline application or obtaining his travel information in some other form.
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Demo Video]("Miscellaneous/Video thumbnail.png")]("Demo Video/SIA Assist Demo.mp4")
+[![Demo Video](https://github.com/SrikarNamburu/siaAssist/blob/master/Miscellaneous/Video%20thumbnail.png)](https://github.com/SrikarNamburu/siaAssist/blob/master/Demo%20Video/SIA%20Assist%20Demo.mp4)
 
 ---
 ## SECTION 5 : USER GUIDE
 
-[SIA Assist User Guide](https://github.com/SrikarNamburu/siaAssist/blob/master/Project%20User%20Guide/SIA%20User%20Guide.pdf)
+[View SIA Assist User Guide](https://github.com/SrikarNamburu/siaAssist/blob/master/Project%20User%20Guide/SIA%20User%20Guide.pdf)
 
 
 ### Here are some things you can ask SIA!
