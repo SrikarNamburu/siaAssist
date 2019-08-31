@@ -1,0 +1,67 @@
+﻿Name,Flight departure time,Flight arrival time,Terminal,Type,From,To,Flight Status,Delay,Travel Time in min,Baggage Belt,Membership
+Liam,20:00,22:05,T3,Departure,Singapore,Hyderabad,Delay,60,275,42,Business class 
+Noah,21:50,23:55,T2,Transit,Singapore,Hyderabad,Delay,25,275,36,No
+William,22:20,00:05,T2,Departure,Singapore,Bengaluru,Delay,45,255,33,No
+James,20:05,21:50,T3,Departure,Singapore,Bengaluru,On-time,0,255,45,Business class 
+Logan,22:20,00:05,T2,Transit,Singapore,Bengaluru,Delay,45,255,35,No
+Benjamin,09:05,11:05,T2,Departure,Singapore,Bengaluru,Delay,45,270,35,No
+Mason,20:00,22:05,T3,Transit,Singapore,Hyderabad,Delay,45,275,48,Krisflyer Elite Gold
+Nolan,21:50,23:55,T2,Departure,Singapore,Hyderabad,Delay,45,275,32,No
+Oliver,23:30,05:55,T3,Departure,Singapore,London,Delay,40,865,43,No
+Jacob,01:10,07:45,T2,Transit,Singapore,London,Delay,30,875,33,Business class 
+Lucas,23:35,06:55,T3,Departure,Singapore,Barcelona,On-time,0,860,46,No
+Michael,07:10,08:35,T2,Departure,Singapore,Bangkok,On-time,0,145,33,PPS Club
+Alexander,09:35,11:05,T2,Departure,Singapore,Bangkok,Delay,30,150,34,No
+Ethan,12:50,14:20,T3,Transit,Singapore,Bangkok,Delay,30,150,42,Krisflyer Elite Gold
+Daniel,18:20,20:50,T3,Departure,Singapore,Bali,Delay,35,150,48,No
+Matthew,07:00,09:35,T2,Transit,Singapore,Bali,Delay,65,155,36,Solitaire PPS Club
+Aiden,08:20,11:00,T2,Departure,Singapore,Bali,Delay,40,160,36,No
+Henry,09:15,11:55,T2,Departure,Singapore,Bali,On-time,0,160,32,No
+Joseph,23:00,06:10,T3,Arrival,Hyderabad,Singapore,On-time,0,280,42,Solitaire PPS Club
+Jackson,00:50,08:05,T3,Transit,Hyderabad,Singapore,Delay,25,285,48,No
+Samuel,01:20,08:25,T3,Arrival,Bengaluru,Singapore,Delay,50,275,45,No
+Sebastian,11:55,19:00,T2,Arrival,Bengaluru,Singapore,Delay,35,275,38,No
+David,23:05,06:10,T3,Transit,Bengaluru,Singapore,On-time,0,275,43,No
+Carter,09:25,05:30,T2,Arrival,London,Singapore,On-time,0,725,36,Solitaire PPS Club
+Wyatt,11:25,07:30,T3,Arrival,London,Singapore,On-time,0,725,47,No
+Jayden,20:05,16:55,T2,Transit,London,Singapore,Delay,25,725,35,No
+John,12:05,07:00,T2,Arrival,Barcelona,Singapore,Delay,45,715,32,Business class 
+Owen,10:05,05:00,T2,Arrival,Barcelona,Singapore,Delay,60,715,36,No
+Dylan,21:10,21:10,T3,Arrival,Bangkok,Singapore,Delay,65,135,43,No
+Luke,20:10,23:30,T3,Transit,Bangkok,Singapore,Delay,35,140,48,No
+Gabriel,09:40,13:05,T2,Arrival,Bangkok,Singapore,On-time,0,145,31,No
+Anthony,10:25,13:00,T3,Arrival,Bali,Singapore,On-time,0,155,48,No
+Isaac,21:45,00:20,T3,Transit,Bali,Singapore,On-time,0,155,44,No
+Grayson,20:00,22:05,T2,Departure,Singapore,Hyderabad,Delay,30,275,35,No
+Jack,21:50,23:55,T3,Transit,Singapore,Hyderabad,On-time,0,275,47,No
+Julian,22:20,00:05,T2,Departure,Singapore,Bengaluru,On-time,0,255,35,No
+Levi,20:05,21:50,T3,Departure,Singapore,Bengaluru,Delay,20,255,42,No
+Christopher,22:20,00:05,T2,Transit,Singapore,Bengaluru,On-time,0,255,34,No
+Joshua,09:05,11:05,T2,Departure,Singapore,Bengaluru,On-time,0,270,33,No
+Andrew,20:00,22:05,T3,Transit,Singapore,Hyderabad,On-time,0,275,47,No
+Lincoln,21:50,23:55,T2,Departure,Singapore,Hyderabad,Delay,90,275,31,No
+Mateo,23:30,05:55,T3,Departure,Singapore,London,Delay,90,865,44,No
+Ryan,01:10,07:45,T2,Transit,Singapore,London,Delay,90,875,36,No
+Jaxon,23:35,06:55,T2,Departure,Singapore,Barcelona,Delay,90,860,36,No
+Nathan,07:10,08:35,T2,Departure,Singapore,Bangkok,Delay,90,145,36,No
+Aaron,09:35,11:05,T2,Departure,Singapore,Bangkok,On-time,0,150,38,No
+Isaiah,12:50,14:20,T3,Transit,Singapore,Bangkok,Delay,35,150,48,No
+Thomas,18:20,20:50,T2,Departure,Singapore,Bali,On-time,0,150,32,No
+Charles,07:00,09:35,T3,Transit,Singapore,Bali,Delay,180,155,45,PPS Club
+Caleb,08:20,11:00,T2,Departure,Singapore,Bali,Delay,40,160,31,No
+Josiah,09:15,11:55,T2,Departure,Singapore,Bali,Delay,40,160,34,No
+Christian,23:00,06:10,T2,Arrival,Hyderabad,Singapore,Delay,40,280,34,Krisflyer Elite Gold
+Hunter,00:50,08:05,T3,Transit,Hyderabad,Singapore,Delay,40,285,45,No
+Eli,01:20,08:25,T2,Arrival,Bengaluru,Singapore,On-time,0,275,31,No
+Jonathan,11:55,19:00,T2,Arrival,Bengaluru,Singapore,Delay,35,275,38,No
+Connor,23:05,06:10,T3,Transit,Bengaluru,Singapore,Delay,35,275,45,Krisflyer Elite Gold
+Landon,09:25,05:30,T2,Arrival,London,Singapore,On-time,0,725,36,Krisflyer Elite Gold
+Adrian,11:25,07:30,T3,Arrival,London,Singapore,Delay,35,725,43,PPS Club
+Asher,20:05,16:55,T2,Transit,London,Singapore,Delay,35,725,37,No
+Cameron,12:05,07:00,T3,Arrival,Barcelona,Singapore,Delay,35,715,48,Krisflyer Elite Gold
+Leo,10:05,05:00,T3,Arrival,Barcelona,Singapore,On-time,0,715,47,No
+Theodore,21:10,21:10,T3,Arrival,Bangkok,Singapore,On-time,0,135,41,No
+Jeremiah,20:10,23:30,T3,Transit,Bangkok,Singapore,Delay,35,140,41,No
+Hudson,09:40,13:05,T2,Arrival,Bangkok,Singapore,On-time,0,145,41,PPS Club
+Robert,10:25,13:00,T3,Arrival,Bali,Singapore,On-time,0,155,48,No
+Easton,21:45,00:20,T2,Transit,Bali,Singapore,On-time,0,155,45,Business class 
