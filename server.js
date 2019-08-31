@@ -49,7 +49,7 @@ var userData = {
   "baggageBelt" : '36',
   "delay": '0',
   "membership" : 'Krisflyer Elite Gold',
-  "loaded": true
+  "loaded": false
 }
 
 // Service Suggestions
@@ -315,7 +315,8 @@ app.intent('Shopping', async (conv, params) => {
       name: myResponse[i]._rawJson.fields["Name"],
       category : myResponse[i]._rawJson.fields["Category"],
       location: myResponse[i]._rawJson.fields["Location"],
-      imageURL: myResponse[i]._rawJson.fields["Image"]
+      imageURL: myResponse[i]._rawJson.fields["Image"],
+      timings: myResponse[i]._rawJson.fields["Timings"]
     });
   }
   
@@ -328,7 +329,7 @@ app.intent('Shopping', async (conv, params) => {
   for(i=0; i<shopsArray.length; ++i) {
     carouselItems.items[shopsArray[i].name] = {
       title: shopsArray[i].name,
-      description: shopsArray[i].category + ' - ' + shopsArray[i].location,
+      description: 'Open Hours: '+ shopsArray[i].timings,
       image: new Image({
         url: shopsArray[i].imageURL,
         alt: ' ',
@@ -583,7 +584,7 @@ app.intent('Restaurant', async (conv, params) =>{
     RestaurantArray.push({
       name: myResponse[i]._rawJson.fields["Name"],
       Location : myResponse[i]._rawJson.fields["Location"],
-      Time : myResponse[i]._rawJson.fields["Time"],
+      Timings : myResponse[i]._rawJson.fields["Timings"],
       Category : myResponse[i]._rawJson.fields["Category"],
       Image: myResponse[i]._rawJson.fields["Image"],
       url:myResponse[i]._rawJson.fields["url"],
@@ -597,7 +598,7 @@ app.intent('Restaurant', async (conv, params) =>{
   for(i=0; i<RestaurantArray.length; ++i) {
     var item = new BrowseCarouselItem({
       title: RestaurantArray[i].name,
-      description: "Opening Hours:  \n" +RestaurantArray[i].Time,
+      description: "Opening Hours:  \n" +RestaurantArray[i].Timings,
       url:RestaurantArray[i].url,
       image: new Image({
         url: RestaurantArray[i].Image,
