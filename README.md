@@ -28,7 +28,7 @@ an airline application or obtaining his travel information in some other form.
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-< video src="Demo Video/SIA Assist Demo.mp4" width="320" height="200" controls preload />
+[![Demo Video]("Miscellaneous/Video thumbnail.png")]("Demo Video/SIA Assist Demo.mp4")
 
 ---
 ## SECTION 5 : USER GUIDE
@@ -37,7 +37,7 @@ an airline application or obtaining his travel information in some other form.
 
 
 ### Here are some things you can ask SIA!
-<img src="Miscellaneous/capture.png"
+<img src="Miscellaneous/Capture.png"
      style="float: left; margin-right: 0px;" />
 
 ---
