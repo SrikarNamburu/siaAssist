@@ -1,5 +1,5 @@
 ## SECTION 1 : PROJECT TITLE
-## Sia Assist - Personal Airport Assistant
+### Sia Assist - Personal Airport Assistant
 
 <img src="Miscellaneous/logo.png"
      style="float: left; margin-right: 0px;" />
@@ -37,7 +37,7 @@ an airline application or obtaining his travel information in some other form.
 
 
 ### Here are some things you can ask SIA!
-<img src="Miscellaneous/Capture.png"
+<img src="Miscellaneous/Capture.PNG"
      style="float: left; margin-right: 0px;" />
 
 ---
