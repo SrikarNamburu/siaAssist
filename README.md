@@ -1,6 +1,9 @@
 ## SECTION 1 : PROJECT TITLE
 ## Sia Assist - Personal Airport Assistant
 
+<img src="Miscellaneous/logo.png"
+     style="float: left; margin-right: 0px;" />
+
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY
 
@@ -11,8 +14,33 @@ Our proposed chatbot shows true effectiveness when the system has access to user
 information so that his responses can be personalised - either by integrating the chatbot with
 an airline application or obtaining his travel information in some other form.
 
+---
+## SECTION 3 : PROJECT CONTRIBUTION
+
+| Full Name | Student ID |
+| :------------ |:---------------:| 
+| Akshay Sachdeva | A0198532W | 
+| Aniket Mohan Arasanipalai | A0198481N |
+| Srikar Namburu | A0198490N |
+| Vishaag Suriyanarayanan | A0198504X | 
+
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
 < video src="Demo Video/SIA Assist Demo.mp4" width="320" height="200" controls preload />
+
+---
+## SECTION 5 : USER GUIDE
+
+[SIA Assist User Guide](https://github.com/SrikarNamburu/siaAssist/blob/master/Project%20User%20Guide/SIA%20User%20Guide.pdf)
+
+
+### Here are some things you can ask SIA!
+<img src="Miscellaneous/capture.png"
+     style="float: left; margin-right: 0px;" />
+
+---
+## SECTION 6 : PROJECT REPORT / PAPER
+
+[View Project Report](https://github.com/SrikarNamburu/siaAssist/blob/master/Project%20Report/SIA%20ASSIST%20Project%20Report.pdf)
