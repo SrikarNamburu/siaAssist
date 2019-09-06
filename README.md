@@ -38,7 +38,7 @@ The above image illustrates the achitecture used in the project.
 ---
 ## SECTION 5 : USER GUIDE
 
-[View SIA Assist User Guide](https://github.com/SrikarNamburu/siaAssist/blob/master/Project%20User%20Guide/SIA%20User%20Guide.pdf)
+[View SIA Assist User Guide](https://github.com/SrikarNamburu/siaAssist/blob/master/Project%20User%20Guide/SIA%20Assist%20User%20Guide.pdf)
 
 
 ### Here are some things you can ask SIA!
@@ -48,4 +48,4 @@ The above image illustrates the achitecture used in the project.
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-[View Project Report](https://github.com/SrikarNamburu/siaAssist/blob/master/Project%20Report/SIA%20ASSIST%20Project%20Report.pdf)
+[View Project Report](https://github.com/SrikarNamburu/siaAssist/blob/master/Project%20Report/SIA%20Assist%20-%20Project%20Report.pdf)
